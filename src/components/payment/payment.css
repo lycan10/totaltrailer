@@ -1,0 +1,32 @@
+.payment-shipping-address{
+
+    margin-top: 2rem;
+}
+.check{
+    background-color: rgb(233, 231, 231);
+}
+.payment-shipping-address-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 1rem;
+}
+.payment-shipping-address-title h1{
+    font-family: var(--font-family);
+    font-size: 14px;
+    font-weight: 400; 
+    font-weight: 600;
+}
+.payment-shipping-address-setting{
+    cursor: pointer;
+}
+.payment-shipping-address-contact p{
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: 14px;
+    margin-bottom: 0.3rem;
+    font-weight: 400; 
+    font-weight: 400;
+}
